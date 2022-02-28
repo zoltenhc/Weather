@@ -2,12 +2,12 @@
 //  AppDelegate.swift
 //  Weather
 //
-//  Created by Zoltán Gál on 2022. 02. 28..
+//  Created by Zoltán Gál
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
